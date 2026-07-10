@@ -1,23 +1,44 @@
-# 💫 About Me
+### 👋 About Me
 
-Hey, I'm **SivaShankar A V** (Shiva) — a BCA student at Amrita AHEAD and a self-taught dev who vibes best with rain, clean code, and building things that actually ship.
+Hey, I'm **SivaShankar A V** (Shiva) — a self-taught full-stack dev building things that actually ship.
 
-🌧️ Currently running **Rainly Studios** — an umbrella for tools and indie projects I'm building, from open-source utilities to small SaaS ideas. Check out [sivashankarav.in](https://sivashankarav.in) for more.
+🌧️ Running **Rainly Studios** — an umbrella for indie tools and small SaaS ideas. Full list at [sivashankarav.in](https://sivashankarav.in).
 
-🚀 Right now I'm heads-down on **RainNote**, built with React Native/Expo, Node.js/Express, PostgreSQL/Prisma, and Razorpay Subscriptions.
+🚀 Currently heads-down on **[RainNote](https://github.com/sivashankarav/rainnote)** — temporary note-sharing with expiring links. Built with React Native/Expo, Node.js/Express, PostgreSQL/Prisma, and Razorpay Subscriptions. [Live demo →](https://your-demo-link.com)
 
-When I'm not coding, I'm hunting local food spots, teaching whoever'll listen, or chasing the perfect rainy-day playlist.
+📚 Studying BCA (Data Science) at Amrita AHEAD alongside shipping side projects.
 
-### 🌐 Tech Stack
-- **Languages:** Python, TypeScript, Rust
-- **Backend:** Node.js, Express, PostgreSQL, Prisma
-- **Frontend:** React, React Native, Next.js, Tailwind CSS
-- **DevOps:** Docker, GitHub Actions
-- **Other:** Figma for prototyping
-
-### 🌱 Guiding Philosophy
-"Leaving soft footprints on a loud world."
+When I'm not coding: hunting local food spots, teaching whoever'll listen, chasing the perfect rainy-day playlist.
 
 ---
 
-Feel free to connect or collab. Thanks for stopping by — keep building.
+### 🛠️ Tech Stack
+
+**Languages:** Python, TypeScript, JavaScript
+**Backend:** Node.js, Express, PostgreSQL, Prisma
+**Frontend:** React, React Native, Next.js, Tailwind CSS
+**DevOps:** Docker, GitHub Actions
+**Design:** Figma
+
+---
+
+### 📌 Pinned
+
+*(pin RainNote + your 2 strongest other repos here — GitHub handles this natively, no markdown needed)*
+
+---
+
+### 📊 GitHub Stats
+
+![SivaShankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sivashankarav&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivashankarav&layout=compact&theme=dark&hide_border=true)
+
+---
+
+### 🌱 Philosophy
+
+*"Leaving soft footprints on a loud world."*
+
+---
+
+📫 Reach me: [sivashankarav.in](https://sivashankarav.in) · [X](https://x.com/sivashankarav) · [Instagram](https://instagram.com/sivashankarav)
