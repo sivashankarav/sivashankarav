@@ -4,7 +4,7 @@ Hey, I'm **SivaShankar A V** (Shiva) — a self-taught full-stack dev building t
 
 🌧️ Running **Rainly Studios** — an umbrella for indie tools and small SaaS ideas. Full list at [sivashankarav.in](https://sivashankarav.in).
 
-🚀 Currently heads-down on **[RainNote](https://github.com/sivashankarav/rainnote)** — temporary note-sharing with expiring links. Built with React Native/Expo, Node.js/Express, PostgreSQL/Prisma, and Razorpay Subscriptions. [Live demo →](https://your-demo-link.com)
+🚀 Currently heads-down on **[RainNote](https://github.com/sivashankarav/rainnote)** — temporary note-sharing with expiring links. Built with React Native/Expo, Node.js/Express, PostgreSQL/Prisma, and Razorpay Subscriptions. [Live demo →]()
 
 📚 Studying BCA (Data Science) at Amrita AHEAD alongside shipping side projects.
 
