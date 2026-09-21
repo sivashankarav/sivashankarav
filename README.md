@@ -1,44 +1,51 @@
-### 👋 About Me
+<div align="center">
 
-Hey, I'm **SivaShankar A V** (Shiva) — a self-taught full-stack dev building things that actually ship.
+# hi, i'm siva 👋
 
-🌧️ Running **Rainly Studios** — an umbrella for indie tools and small SaaS ideas. Full list at [sivashankarav.in](https://sivashankarav.in).
+### i make tiny internet things and occasionally they survive production
 
-🚀 Currently heads-down on **[RainNote](https://github.com/sivashankarav/rainnote)** — temporary note-sharing with expiring links. Built with React Native/Expo, Node.js/Express, PostgreSQL/Prisma, and Razorpay Subscriptions. [Live demo →]()
+[![website](https://img.shields.io/badge/my%20internet%20scrapbook-sivashankarav.in-f7cf31?style=for-the-badge&labelColor=1f1b18)](https://sivashankarav.in)
 
-📚 Studying BCA (Data Science) at Amrita AHEAD alongside shipping side projects.
+</div>
 
-When I'm not coding: hunting local food spots, teaching whoever'll listen, chasing the perfect rainy-day playlist.
+```text
+currently:
+  🌧️ building under Rainly Studios
+  🗒️ working on RainNote
+  🎓 studying BCA (Data Science) at Amrita AHEAD
+  🧪 turning "what if..." into yet another repo
+```
 
----
+## things on my desk
 
-### 🛠️ Tech Stack
+- **RainNote** - temporary notes with expiring links
+- **Cutie** - a Discord utility bot that escaped into thousands of servers
+- **NammaIssues** - civic-tech experiments for local problems
+- **sivashankarav.in** - portfolio + build log + handmade internet scrapbook
 
-**Languages:** Python, TypeScript, JavaScript
-**Backend:** Node.js, Express, PostgreSQL, Prisma
-**Frontend:** React, React Native, Next.js, Tailwind CSS
-**DevOps:** Docker, GitHub Actions
-**Design:** Figma
+## i speak fluent
 
----
+`TypeScript` `JavaScript` `Python` `React` `React Native` `Next.js` `Node.js` `Express` `PostgreSQL` `Prisma` `Tailwind CSS` `Docker` `GitHub Actions` `Figma`
 
-### 📌 Pinned
+## extremely serious developer metrics
 
-*(pin RainNote + your 2 strongest other repos here — GitHub handles this natively, no markdown needed)*
+| status | reading |
+|---|---|
+| tabs open | too many |
+| side projects | yes |
+| bugs created | artisanal |
+| bugs fixed | eventually |
+| weather preference | rain, obviously |
 
----
+<div align="center">
 
-### 📊 GitHub Stats
+![SivaShankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sivashankarav&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sivashankarav&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000)
 
-![SivaShankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sivashankarav&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivashankarav&layout=compact&theme=dark&hide_border=true)
+### find me elsewhere
 
----
+[website](https://sivashankarav.in) · [github](https://github.com/sivashankarav) · [linkedin](https://linkedin.com/in/sivashankarav) · [x](https://x.com/sivashankarav) · [instagram](https://instagram.com/sivashankarav) · [email](mailto:ping@sivashankarav.in)
 
-### 🌱 Philosophy
+<sub>leaving soft footprints on a loud world ☁️</sub>
 
-*"Leaving soft footprints on a loud world."*
-
----
-
-📫 Reach me: [sivashankarav.in](https://sivashankarav.in) · [X](https://x.com/sivashankarav) · [Instagram](https://instagram.com/sivashankarav)
+</div>
