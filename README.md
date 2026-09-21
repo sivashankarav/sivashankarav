@@ -37,10 +37,19 @@ currently:
 | bugs fixed | eventually |
 | weather preference | rain, obviously |
 
-<div align="center">
+## today's deployment forecast
 
-![SivaShankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sivashankarav&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sivashankarav&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000)
+```text
+☁️  80% chance of side projects
+🌧️  scattered commits after midnight
+⚡  sudden bursts of TypeScript
+🐛  one bug pretending to be a feature
+✅  production probably survives
+```
+
+> no generated stats, no language leaderboard - just the stuff i'm actually making.
+
+<div align="center">
 
 ### find me elsewhere
 
